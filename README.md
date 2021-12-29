@@ -19,7 +19,7 @@ The ssh-keygen command allows you to generate a pair of SSH keys.
 
 You can configure a new SSH key on GitHub.
 
-Translated with www.DeepL.com/Translator (free version)
+
 
 git reset is a powerful command. It can be applied in 3 different ways (--soft; --mixed; --hard).
 
@@ -29,7 +29,7 @@ git reset allows you to go back to the previous state without creating a new com
 
 git revert allows you to go back to the previous state by creating a new commit.
 
-Translated with www.DeepL.com/Translator (free version)
+
 git log displays the history of commits made on the current branch.
 
 git reflog is identical to git log. This command also displays all actions performed locally.
@@ -40,4 +40,4 @@ git blame allows you to know who made which modification in a file, at which dat
 
 git cherry-pick un_identifiant_SHA-1 un_autre_identifiant_SHA-1 allows to select a commit and to apply it on the current branch.
 
-Translated with www.DeepL.com/Translator (free version)
+
